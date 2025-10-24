@@ -9,15 +9,6 @@ This guided project implements a complete semantic segmentation pipeline using P
 - OpenCV: Image loading and preprocessing
 - NumPy & Matplotlib: Data manipulation and visualization
 
-
-### Project Structure
-├── dataset.py                                             # Custom Dataset class for image-mask pairs
-
-├── Deep Learning with PyTorch-ImageSegmentation.ipynb     # Albumentations-based augmentation pipeline
-
-
-└── README.md                                              # Project overview
-
 ### Sample Output
 
 <img width="831" height="293" alt="Untitled" src="https://github.com/user-attachments/assets/b6d9ddfb-0f73-45fc-bfda-12581e26d3e0" />
