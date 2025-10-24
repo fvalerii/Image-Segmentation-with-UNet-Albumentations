@@ -10,9 +10,22 @@ This guided project implements a complete semantic segmentation pipeline using P
 - NumPy & Matplotlib: Data manipulation and visualization
 
 ### Sample Output
-
 <img width="831" height="293" alt="Untitled" src="https://github.com/user-attachments/assets/b6d9ddfb-0f73-45fc-bfda-12581e26d3e0" />
 
+### Setup Instructions (Google Colab)
+
+1. Open the notebook in Google Colab  
+   You can either upload the notebook manually or open it directly from GitHub.
+
+2. Enable GPU Runtime  
+   Go to `Runtime` → `Change runtime type` → Select **GPU** → Click **Save**
+
+3. Run the notebook cells step by step  
+   Follow the notebook instructions to:
+   - Load and visualize the dataset  
+   - Apply augmentations  
+   - Load the pretrained UNet model  
+   - Train and evaluate the segmentation model
 
 ### Credits
 This project was built as part of a Coursera Guided Project on semantic segmentation. It has been adapted and extended for portfolio presentation.
